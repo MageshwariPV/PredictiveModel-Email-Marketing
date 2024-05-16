@@ -1,6 +1,6 @@
 Universal Plus - Email Marketing Campaign
 ================
-Ruthuparan Prasad
+Mageshwari PV
 2022-11-26
 
 ``` r
